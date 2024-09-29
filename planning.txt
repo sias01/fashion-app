@@ -1,0 +1,17 @@
+COMPONENTS
+1. Products to show
+2. Recommendation System/Algorithm
+3. ML-Ops (for constant re-training)
+4. Storing of products
+5. How to use a single model for all users/micro-models for each users
+6. Hosting for these models, database, VM
+7. Deploying as an Android app and it's front-end (Flutter/Android Studio,etc.)
+
+
+# Architecture
+
+
+# Workflow
+1. Recommendation System (ML)
+2. Storage and recommendation System
+3. Android app
