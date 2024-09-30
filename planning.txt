@@ -11,7 +11,7 @@ COMPONENTS
 # Architecture
 
 
-# Workflow
+WORKFLOW
 1. Recommendation System (ML)
 2. Storage and recommendation System
 3. Android app
